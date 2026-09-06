@@ -30,3 +30,4 @@ Il progetto sintetizza lo storico delle transazioni, la composizione del portafo
 ### Struttura del Repository
 
 * `Analisi_clienti_banca.sql`: script SQL contenente le CTE modulari per il calcolo e l'estrazione della tabella di feature denormalizzata.
+* `db_bancario.sql`: script SQL per generare il DB relazionale dal quale estrarre le feature
